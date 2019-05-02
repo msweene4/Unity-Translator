@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a0c091f191f8d49af2933eadc67e86, type: 3}
+  m_Name: TranslationList
+  m_EditorClassIdentifier: 
+  selectedLang: Spanish
+  selectedKey: hello
+  myList:
+  - Language: {fileID: 11400000, guid: 2b5f7e43f46a59c4d842026707fc69fd, type: 2}
+    Translation: hello
+  - Language: {fileID: 11400000, guid: bc3b915865ad9cf4e96608b25eb1eb1e, type: 2}
+    Translation: bonjour
+  - Language: {fileID: 11400000, guid: 8cec7b5e5a403b842a883f988821ca12, type: 2}
+    Translation: hola
